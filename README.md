@@ -4,5 +4,5 @@ This application implements k-means algorithm on 3-dimensional space. It's writt
   - Demonstration of algorithms flow in real time
   - Rotation of space by scrolling mouse wheel
 ##### Here how it looks:
-![Algorithm flow](https://github.com/strunasik/3D-space/gifs/proccessing.gif)
-![Rotation](https://github.com/strunasik/3D-space/gifs/rotation.gif)
+![Algorithm flow](https://github.com/strunasik/3D-space/blob/master/gifs/processing.gif)
+![Rotation](https://github.com/strunasik/3D-space/blob/master/gifs/rotation.gif)
